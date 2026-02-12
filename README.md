@@ -1,5 +1,3 @@
-Perfect 👍
-Here’s a complete, clean README.md you can copy-paste directly into your GitHub repo. It’s written in a professional + student-friendly style that recruiters like.
 
 📊 Customer Sales Analysis & Visualization
 
